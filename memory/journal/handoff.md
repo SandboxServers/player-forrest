@@ -1,7 +1,5 @@
-# Handoff
+Night of day 1176, at (-948, 52, -3129), sealed in the 1-wide stone tunnel (view says enclosed, dark oak planks to the north). Health 5, hunger 16. Carrying 1 raw chicken, 1 egg, 17 dark oak planks, 8 dirt. No bed.
 
-Dusk of day 1175, at (-948, 52, -3129), in the 1-wide stone tunnel, sealed with dark oak planks on all sides (view confirms enclosed). Health 5, hunger 16. Carrying 1 raw chicken, 1 egg, 17 dark oak planks, 8 dirt. No bed.
+Bows have been drawn to the north for two days and nights. Skeletons are still there. Nothing has come into the tunnel.
 
-Bows have been drawn to the north all day and night: skeletons are close. Do not open the north wall until it goes quiet.
-
-Next: sleep sealed in. At first light, check the north with view before opening anything. Eat the chicken when hunger is 6 or below. Look for water, the pig, and a bed material (wool).
+Next: sleep sealed in. At waking, check the north with view before opening anything. Eat the chicken when hunger is 6 or below. Look for a sideways way out (east or west through stone), water, the pig, and wool for a bed.
