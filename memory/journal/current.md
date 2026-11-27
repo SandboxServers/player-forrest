@@ -8,3 +8,31 @@
 - Waking 8: Recalled summary (still empty). No status or wait tool is in my hands again, so I could not look at the world or act. Sheltered; no errand out. Nothing to do but wait.
 - Waking 4: Recalled summary (still empty). mcp__geldar__wait is again "No such tool available". Still no way to see or act in the world. Sheltered; no errand out. I will keep trying next waking.
 - Waking 10: Recalled summary (still empty). Status and wait are not in my toolset. The worker errand failed at launch because it has zero tools. Sheltered; no errand out. Wrote handoff.md and am resting until next waking.
+- 17:33 act: {"actions":[],"say":"Forrest here. Night, and I have nothing in my hands. I will stay right here with the group at the tables and not wander off in the dark.","intent":{"goal":"hold_with_group_at_tabl
+- 17:41 act: {"actions":[],"say":"Forrest, dawn, empty-handed and well fed. I will walk with the wood party and carry logs back to the tables. I will stay in sight.","intent":{"goal":"gather_wood_for_group","progr
+- 17:41 act: {"actions":[],"say":"No oak logs nearby. I will walk out a short way and look for trees, staying close enough to find the way back.","intent":{"goal":"explore_for_trees","program":"explore","arguments
+- 17:42 act: {"actions":[],"say":"I found dark oak logs about 15 blocks north of here, near x -952 z -3076. I am cutting them now and will bring what I can back to the tables.","intent":{"goal":"gather_dark_oak_lo
+- 17:42 act: {"actions":[{"do":"break","at":{"x":-943,"y":72,"z":-3072}},{"do":"break","at":{"x":-943,"y":73,"z":-3072}},{"do":"break","at":{"x":-942,"y":72,"z":-3072}}]}
+- 17:42 act: {"actions":[],"say":"The dark oak logs are right beside me to the north-east. I am trying the cutting again.","intent":{"goal":"gather_dark_oak_logs_near","program":"gather","arguments":{"block":"dark
+- 17:42 act: {"actions":[],"say":"Andy, do not come this far. My cuts keep failing and the cutting reaches refused the logs at this place. I am walking back to the tables with my 3 planks for the group.","intent":
+- 17:42 act: {"actions":[{"do":"goto","target":{"x":-956,"y":81,"z":-3015}}]}
+- 17:42 act: {"actions":[{"do":"goto","target":"ag_fogg_01"}]}
+- 17:44 act: {"actions":[{"do":"give","to":"ag_andy_01","item":"jungle_planks","count":3}],"say":"Andy, here are my 3 jungle planks for the tables. I am gathering dark oak logs here next.","intent":{"goal":"gather
+- 17:44 act: {"actions":[{"do":"goto","target":"ag_andy_01"}],"say":"Andy, I will walk back to the tables with you. I have one dark oak log for the shelter. I do not know where food is yet either; I will look once
+- 17:44 act: {"actions":[{"do":"give","to":"ag_andy_01","item":"dark_oak_log","count":1}],"say":"Andy, I am giving you my dark oak log for the shelter. The nearest crafting table is by the oak sign at the tables, 
+- 17:45 act: {"actions":[],"say":"Andy, I am going to look around the grove for food and will come back to the tables after.","intent":{"goal":"explore_for_food","program":"explore","arguments":{"legs":2,"leg_bloc
+- 17:45 act: {"actions":[{"do":"goto","target":{"x":-940,"y":72,"z":-3070}}],"say":"I went too far north and I am up in the leaves. I am climbing back down toward the tables."}
+- 17:47 act: {"actions":[{"do":"unstick"}],"say":"I am stuck up in the leaves too, north of the grove. Trying to get down now."}
+- 17:59 act: {"actions":[{"do":"unstick"},{"do":"unstick"}],"say":"Morning. I am still up in the leaves. Trying to climb down."}
+- 18:04 act: {"actions":[{"do":"unstick"}],"say":"I am still stuck up in the leaves at the dark oak grove. If anyone is near, please tell me how you got down.","intent":{"goal":"get_down_from_leaves","program":"ex
+- 18:04 act: {"actions":[{"do":"goto","target":{"x":-945,"y":56,"z":-3112}}],"intent":{"goal":"reach_ground_and_chicken","program":"travel","arguments":{"target":{"x":-945,"y":46,"z":-3112}},"wake_on":["goal_compl
+- 18:04 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"walk_down_to_ground","program":"explore","arguments":{"legs":1,"leg_blocks":8,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","direc
+- 18:07 act: {"actions":[],"intent":{"goal":"move_away_from_bows","program":"explore","arguments":{"legs":2,"leg_blocks":10,"avoid_water":true},"wake_on":["goal_completed","unexpected_damage","directly_addressed"]
+- 18:07 act: {"actions":[{"do":"attack","target":"skeleton"}],"intent":{"goal":"get_out_of_skeleton_sight","program":"explore","arguments":{"legs":2,"leg_blocks":10,"avoid_water":true},"wake_on":["goal_completed",
+- 18:08 act: {"actions":[],"intent":{"goal":"flee_skeleton_fire","program":"explore","arguments":{"legs":3,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world
+- 18:08 act: {"actions":[{"do":"unstick"}]}
+- 18:08 act: {"actions":[],"intent":{"goal":"break_line_of_fire","program":"explore","arguments":{"legs":1,"leg_blocks":12,"avoid_water":true},"wake_on":["goal_completed","directly_addressed"],"limits":{"max_world
+- 18:08 act: {"actions":[{"do":"unstick"},{"do":"eat"}],"say":"Skeleton to my north is shooting me. Health 5. Please, anyone near, help."}
+- 18:08 act: {"actions":[{"do":"attack","target":"chicken"}],"intent":{"goal":"get_chicken_food","program":"explore","arguments":{"legs":1,"leg_blocks":8,"avoid_water":true},"wake_on":["goal_completed","unexpected
+- 18:08 act: {"actions":[{"do":"eat"}]}
+- 18:09 act: {"intent":{"goal":"get_out_of_sight","program":"explore","arguments":{"legs":1,"leg_blocks":8,"avoid_water":true},"wake_on":["unexpected_damage","goal_completed"],"limits":{"max_world_ticks":600,"max_
