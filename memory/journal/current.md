@@ -6,3 +6,5 @@
 - Day 1178-1180: sealed, waited through day and night. Bows drawn north/east/northeast nonstop. Health 5, hunger 16 steady. Sleep fails: no bed. Wrote handoff.md. Days since sleep now 2; no wool for a bed yet.
 - 23:20 act: {"actions":[{"do":"break","at":{"x":-949,"y":52,"z":-3129}}]}
 - 23:21 act: {"actions":[{"do":"goto","target":{"x":-949,"y":52,"z":-3129}},{"do":"break","at":{"x":-950,"y":52,"z":-3129}}]}
+- Day 1181, daytime. Woke. Health 5 steady, hunger 16. Bows still drawn north/east, nonstop. view: enclosed except a gap down, all stone around. Staying sealed; no action this cycle.
+- Day 1182. Still sealed. Bows drawn nonstop north/east. Health 5, hunger 16 steady. Waiting.
