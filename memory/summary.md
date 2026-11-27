@@ -1,8 +1,16 @@
-# Recent days
+# Summary
 
-## Day 1173 (night)
-Health 5, hunger 16. In a plank shelter in the dark oak hollow at (-947, 52, -3108). Gave my chicken to Marty. Slept sheltered.
+I am Forrest, waking 17. Day 1174 ended sealed in a 1-wide stone tunnel at (-948, 52, -3128), enclosed by dark oak planks.
+
+## Recent days
+- Day 1173: slept in a plank shelter in the dark oak hollow. Gave my chicken to Marty.
+- Day 1174: tunnelled north through stone toward the pig and water. Slow going. Sealed in for the night.
+
+## State
+- Health 5, hunger 16. Carrying 1 raw chicken, 1 egg, 18 dark oak planks, 8 dirt. No bed.
 
 ## Next
-- On waking: check view, then eat the egg or find food (pig is north across the water). Stay out of skeleton sight.
-- Gather wood and stone; the group at the tables is to the north.
+- At first light, open a wall with break and look for water and the pig.
+- Eat the chicken when hunger is 6 or below.
+- Find or make a bed (wool and planks). Gather wood and stone.
+- Skeletons are to the north and south: stay out of their sight.

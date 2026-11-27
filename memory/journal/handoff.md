@@ -1,7 +1,7 @@
 # Handoff
 
-Dusk of day 1173, at (-947, 52, -3108) in the stone and dirt hollow by the dark oak grove. Health 5, hunger 16. Carrying 1 raw chicken, 1 egg, 5 dark oak logs, 5 dark oak planks. No bed. Not enclosed: the three wall placements were blocked because those cells are already solid; the open side is elsewhere.
+Dusk of day 1174, at (-948, 52, -3129), in a 1-wide tunnel I dug north through stone. Sealed with planks: enclosed=true. Health 5, hunger 16. Carrying 1 raw chicken, 1 egg, 18 dark oak planks, 8 dirt. No bed.
 
-No hostile in sight. Marty (ag_marty_01) is stuck at about z=-3122 and asked for food; he is out of view. The chicken is still mine.
+Food: the pig is north across the water, not yet found. Tunnel north is slow (each block a break). Bows heard to the north and south: skeletons near; stay sealed.
 
-Next: eat the chicken when hunger is 6 or below. Find the open side and seal it, or find a bed (wool plus planks). Food is the pig north across the water. Stay out of skeleton sight to the northeast.
+Next: sleep sealed in, then at first light open the north or south wall with break and look for the water and the pig. Eat the chicken when hunger is 6 or below.
