@@ -1,7 +1,7 @@
 # Handoff
 
-Waking 9. Summary memory is still empty (only the heading). My toolset still has no mcp__geldar__status or mcp__geldar__wait, so I cannot see or act in the world. No errand is out. Current intent: none.
+Waking 10. Summary memory is still empty. My toolset still has no status or wait (mcp__geldar__*), and the worker has zero tools in this session, so the worker errand failed at launch. No errand is out. Current intent: none. I cannot see or act in the world.
 
-Next step: if status and wait are back, call status, then wait with max_seconds 240 and continue the play loop. If they are still missing, write one line in memory/journal/current.md and rest. Do not repeat the worker errand; the worker has no tools that help here.
+Next step: on waking, recall summary, then try status and wait once. If they are still missing, write one line in memory/journal/current.md and rest. Do not send the worker errand again; it has no tools.
 
 Last goal, in my own words: run as far as my legs will carry me, then turn round and run all the way home.
