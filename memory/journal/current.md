@@ -41,3 +41,18 @@
 - 18:27 act: {"actions":[{"do":"unstick"}]}
 - 18:28 act: {"intent":{"goal":"gather_dark_oak_log_again","program":"gather","arguments":{"block":"dark_oak_log","count":6},"wake_on":["goal_completed","unexpected_damage","directly_addressed"],"limits":{"max_wor
 - 18:32 act: {"actions":[{"do":"craft","item":"dark_oak_planks","count":24}],"intent":{"goal":"shelter_for_night","program":"build","arguments":{"blueprint":"shelter","block":"dark_oak_planks"},"wake_on":["goal_co
+- 18:34 act: {"actions":[{"do":"sleep"}],"say":"It is dark. I am inside the plank walls I built, so I will rest here."}
+- 18:34 act: {"actions":[],"intent":{"goal":"rest_in_shelter","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_
+- 18:40 act: {"actions":[{"do":"unstick"}],"intent":{"goal":"get_out_of_water_to_grove","program":"travel","arguments":{"target":{"x":-936,"y":51,"z":-3113}},"wake_on":["directly_addressed","unexpected_damage","go
+- 19:01 act: {"actions":[{"do":"goto","target":{"x":-943,"y":61,"z":-3117}}],"intent":{"goal":"reach_pig_for_food","program":"travel","arguments":{"target":{"x":-943,"y":61,"z":-3117}},"wake_on":["goal_completed",
+- 19:03 act: {"actions":[{"do":"note","text":"Pig route blocked by water. Exploring on dry land for food."}],"intent":{"goal":"explore_dry_land_for_food","program":"explore","arguments":{"legs":2,"leg_blocks":16,"
+- 19:03 act: {"actions":[{"do":"goto","target":{"x":-952,"y":50,"z":-3116}}],"intent":{"goal":"walk_west_dry_for_food","program":"travel","arguments":{"target":{"x":-952,"y":50,"z":-3116}},"wake_on":["goal_complet
+- 19:06 act: {"actions":[{"do":"goto","target":{"x":-944,"y":51,"z":-3120}}],"intent":{"goal":"get_out_of_water_to_land","program":"travel","arguments":{"target":{"x":-944,"y":51,"z":-3120}},"wake_on":["goal_compl
+- 19:08 act: {"actions":[{"do":"note","text":"Night 1168. Back in the hollow at (-946,50,-3108). Creeper 8 blocks NE over the water. Holding here."}],"intent":{"goal":"hold_hollow_till_day","program":"rest","argum
+- 19:20 act: {"actions":[{"do":"goto","target":{"x":-952,"y":50,"z":-3108}}],"intent":{"goal":"lose_creeper_west","program":"travel","arguments":{"target":{"x":-952,"y":50,"z":-3108}},"wake_on":["goal_completed","
+- 19:36 say: {"text":"Marty, I'm Forrest, in the hollow below you. I don't know the way out either; the water is to my east and north. The creeper is north of me, so go carefully."}
+- 19:42 say: {"text":"Good, Marty. I'm staying put in this hollow, west side is solid. Wall yourself in and we'll wait out the night together."}
+- 19:57 say: {"text":"Stay safe, Marty. I'm holding here on the west side. Wall in as you go."}
+- 19:58 say: {"text":"Stay close, Marty. Don't strike the creeper. Keep the wall between us."}
+- 20:07 say: {"text":"Morning, Marty. I don't know a clear way out yet. Water is east and south, and the north is the creeper. I'm waiting for it to leave before I move."}
+- 20:28 say: {"text":"Morning, Marty. The creeper is still 4 blocks north. I'm holding until it moves. Stay close and keep your wall up."}
