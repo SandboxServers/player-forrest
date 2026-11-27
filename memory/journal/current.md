@@ -56,3 +56,10 @@
 - 19:58 say: {"text":"Stay close, Marty. Don't strike the creeper. Keep the wall between us."}
 - 20:07 say: {"text":"Morning, Marty. I don't know a clear way out yet. Water is east and south, and the north is the creeper. I'm waiting for it to leave before I move."}
 - 20:28 say: {"text":"Morning, Marty. The creeper is still 4 blocks north. I'm holding until it moves. Stay close and keep your wall up."}
+- 20:43 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-946,"y":52,"z":-3108}},{"do":"place","block":"dark_oak_planks","at":{"x":-947,"y":52,"z":-3107}},{"do":"place","block":"dark_oak_planks",
+- 20:43 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-947,"y":53,"z":-3108}}]}
+- Night 1172: Health 5, hunger 16, one plank wall placed (east/west/north-ish), above-block placement blocked, still not fully enclosed. No hostiles in sight. Holding in the hollow on a rest intent until dawn; eat chicken if hunger falls to 6.
+- 20:43 act: {"actions":[],"say":"Marty, I'm still here. I placed some planks; I'll hold quiet through the night.","intent":{"goal":"hold_through_night","program":"rest","arguments":{},"wake_on":["directly_address
+- 20:49 act: {"actions":[{"do":"give","to":"ag_marty_01","item":"chicken","count":1}],"say":"Marty, here is my chicken. Eat it. There is a pig to the north across the water, and I have no weapon. I'll look for mor
+- 20:54 act: {"actions":[],"say":"Marty, if you are near, the chicken is yours when you come close. I am staying in the hollow for now.","intent":{"goal":"hold_hollow_until_food","program":"rest","arguments":{},"w
+- 21:00 act: {"actions":[{"do":"place","block":"dark_oak_planks","at":{"x":-948,"y":52,"z":-3108}},{"do":"place","block":"dark_oak_planks","at":{"x":-946,"y":52,"z":-3108}},{"do":"place","block":"dark_oak_planks",
