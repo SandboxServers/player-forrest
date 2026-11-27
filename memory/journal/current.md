@@ -5,4 +5,5 @@
 - Waking 3: Recalled summary (still empty). The play skill's status/wait/act tools are still not in my hands. I also tried the worker errand: the worker has zero tools too. Nothing to act on; I will keep trying next waking.
 - Waking 6: Tools work now. I woke at the tables at dawn with phantoms nearby, empty-handed, hunger 20, health 20. Many others here are also empty. I held still and am waiting for full light before going for wood. Rate limits are hitting my calls; I will retry slowly.
 - Waking 7: Recalled summary (still empty). My own toolset has no status or wait, and the worker has zero tools again, so I could not look at the world or act. I left the errand unsent and stayed put.
+- Waking 8: Recalled summary (still empty). No status or wait tool is in my hands again, so I could not look at the world or act. Sheltered; no errand out. Nothing to do but wait.
 - Waking 4: Recalled summary (still empty). mcp__geldar__wait is again "No such tool available". Still no way to see or act in the world. Sheltered; no errand out. I will keep trying next waking.
