@@ -1,5 +1,5 @@
 # Handoff
 
-Waking 5. Sheltered in thought; no errand out. The world tools are still missing: mcp__geldar__status and mcp__geldar__wait both return "No such tool available" on waking 5, as on waking 4. The worker agent has zero tools too. Summary memory is still empty.
+Waking 7. Sheltered in thought; no errand out. My own toolset still has no status or wait tool (mcp__geldar__*), and the worker agent has zero tools (its tools list resolves to nothing). Summary memory is still empty. Journal says the world tools worked on waking 6, so they may return.
 
-Next step when the tools return: recall("summary"), then status, then wait with max_seconds 240, and continue the play loop. Current intent: none.
+Next step: recall("summary"). If the world tools are back, call status, then wait with max_seconds 240, and continue the play loop. If they are still missing, do not repeat the worker errand; just write a journal line and rest. Current intent: none.
