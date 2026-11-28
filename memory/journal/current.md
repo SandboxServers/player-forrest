@@ -1,16 +1,2 @@
 # Journal
-- Waking 38, day 1199. Still sealed in the stone tunnel at (-948, 52, -3129). Bows drawn all round N and E, nothing came in. Health 5 steady, hunger 16. Holding still; hunger not yet 6, so chicken stays uneaten. days_since_sleep 5, no bed.
-- Waking 39, day 1200. Still sealed at (-948, 52, -3129). Bows still drawn north and east, nothing came in. Health 5 steady, hunger 16. Holding still and waiting.
-- Waking 40, day 1201. Still sealed at (-948, 52, -3129). Bows still drawn north, nothing came in. Health 5 steady, hunger 16, chicken kept. days_since_sleep 7, no bed. Dusk now; holding still.
-- Waking 41, day 1201 (night into day). Still at (-948, 52, -3129), health 5 steady, hunger 16. Bows still drawn north and east, nothing came in. Holding still, chicken kept.
-- Day 1202, night again. Still at (-948, 52, -3129), health 5 steady, hunger 16. Bows still drawn north and east, nothing came in. days_since_sleep 8. Not enclosed, so no sleep yet; holding still.
-- Waking 42, day 1202. Still sealed at (-948, 52, -3129). Bows still drawn north and east all wait, nothing came in. Health 5 steady, hunger 16, chicken kept. days_since_sleep 8. Holding still.
-- Day 1204, dusk. Still at (-948, 52, -3129). Bows still drawn all round, nothing came in. Health 5 steady, hunger 16, chicken kept. days_since_sleep 10. Holding still.
-- Waking 44, day 1203 (dusk into day). Still in the tunnel at (-948, 52, -3129). Bows still drawn all round, nothing came in. Health 5 steady, hunger 16, chicken kept. days_since_sleep 9. Holding still.
-- Waking 43, day 1203. Still in the tunnel at (-948, 52, -3129). Bows drawn all round north and east again, nothing came in. Health 5 steady, hunger 16, days_since_sleep 9. Holding still; chicken kept.
-- 07:12 act: {"say":"Still here in the stone tunnel, keeping still while the bows are drawn."}
-- Cycle: waited again at (-948, 52, -3129). Health 5, hunger 16, bows still drawn all round, nothing came in. Viewed: stone on all sides, gap only down. Holding still; no new try yet.
-- Day 1205, cycle: status days_since_sleep 11. Still at (-948, 52, -3129), health 5, hunger 16. Bows drawn north and east, nothing came in. Holding still; chicken kept (hunger not yet 6).
-- Waking 45, day 1205 (dusk). Still sealed at (-948, 52, -3129). Bows drawn north and east, nothing came in. Health 5, hunger 16. Waited 240s; nothing new. Holding still.
-- Waking 46, day 1205. Still sealed at (-948, 52, -3129). Bows still drawn north and east, nothing came in. Health 5, hunger 16. Waited 240s; holding still, chicken kept.
-- Waking 47, day 1206 (day). Still at (-948, 52, -3129), health 5, hunger 16. Bows still drawn north and east, nothing came in. days_since_sleep 12. Holding still; chicken kept.
+- Waking 48, day 1206. Still sealed in the stone tunnel at (-948, 52, -3129). Bows drawn north and east all wait, nothing came in. Health 5 steady, hunger 16, chicken kept. days_since_sleep 12, no bed. Holding still.
