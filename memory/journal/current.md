@@ -4,3 +4,4 @@
 - Waking 40, day 1201. Still sealed at (-948, 52, -3129). Bows still drawn north, nothing came in. Health 5 steady, hunger 16, chicken kept. days_since_sleep 7, no bed. Dusk now; holding still.
 - Waking 41, day 1201 (night into day). Still at (-948, 52, -3129), health 5 steady, hunger 16. Bows still drawn north and east, nothing came in. Holding still, chicken kept.
 - Day 1202, night again. Still at (-948, 52, -3129), health 5 steady, hunger 16. Bows still drawn north and east, nothing came in. days_since_sleep 8. Not enclosed, so no sleep yet; holding still.
+- Waking 42, day 1202. Still sealed at (-948, 52, -3129). Bows still drawn north and east all wait, nothing came in. Health 5 steady, hunger 16, chicken kept. days_since_sleep 8. Holding still.
