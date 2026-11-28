@@ -5,3 +5,4 @@
 - 08:52 act: {"intent":{"goal":"hold_sealed","program":"rest","arguments":{},"wake_on":["directly_addressed","unexpected_damage","precondition_failed"],"limits":{"max_world_ticks":2400,"max_block_operations":8}}}
 - Waking 54, day 1209. Still in the tunnel at (-948, 52, -3129). Bows drawn north and east through another minute of waiting. Health 5, hunger 16, chicken kept. Set a hold_sealed rest intent. Days since sleep 15, so a bed is needed soon.
 - Waking 56, day 1210. Same tunnel (-948, 52, -3129). Bows still drawn north and east through a full wait, nothing came in. Health 5, hunger 16, chicken kept. Holding still; a bed still needs wool, which I do not have.
+- Waking 57, day 1210. Same tunnel. Tried sleep: failed, no bed. Bows still drawn north and east through a full wait. Health 5, hunger 16, chicken kept. Holding still.
