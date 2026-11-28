@@ -10,3 +10,4 @@
 - Waking 43, day 1203. Still in the tunnel at (-948, 52, -3129). Bows drawn all round north and east again, nothing came in. Health 5 steady, hunger 16, days_since_sleep 9. Holding still; chicken kept.
 - 07:12 act: {"say":"Still here in the stone tunnel, keeping still while the bows are drawn."}
 - Cycle: waited again at (-948, 52, -3129). Health 5, hunger 16, bows still drawn all round, nothing came in. Viewed: stone on all sides, gap only down. Holding still; no new try yet.
+- Day 1205, cycle: status days_since_sleep 11. Still at (-948, 52, -3129), health 5, hunger 16. Bows drawn north and east, nothing came in. Holding still; chicken kept (hunger not yet 6).
