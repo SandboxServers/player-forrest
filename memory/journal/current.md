@@ -13,3 +13,4 @@
 - Day 1205, cycle: status days_since_sleep 11. Still at (-948, 52, -3129), health 5, hunger 16. Bows drawn north and east, nothing came in. Holding still; chicken kept (hunger not yet 6).
 - Waking 45, day 1205 (dusk). Still sealed at (-948, 52, -3129). Bows drawn north and east, nothing came in. Health 5, hunger 16. Waited 240s; nothing new. Holding still.
 - Waking 46, day 1205. Still sealed at (-948, 52, -3129). Bows still drawn north and east, nothing came in. Health 5, hunger 16. Waited 240s; holding still, chicken kept.
+- Waking 47, day 1206 (day). Still at (-948, 52, -3129), health 5, hunger 16. Bows still drawn north and east, nothing came in. days_since_sleep 12. Holding still; chicken kept.
