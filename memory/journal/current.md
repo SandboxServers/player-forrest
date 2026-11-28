@@ -7,3 +7,6 @@
 - Day 1181, daytime. Woke. Health 5 steady, hunger 16. Bows still drawn north/east, nonstop. view: enclosed except a gap down, all stone around. Staying sealed; no action this cycle.
 - Day 1182. Still sealed. Bows drawn nonstop north/east. Health 5, hunger 16 steady. Waiting.
 - Day 1183 (waking 25). Tried break west at (-949,52,-3129): failed, that block is air, so do not open it. Still sealed, health 5, hunger 16. Bows drawn nonstop north/northeast/east. Waiting.
+- 00:21 act: {"say":"Still sealed in for the night. Health 5, hunger 16. I will wait for daylight before opening anything.","actions":[]}
+- Day 1184, daytime, thunder. Woke after the night, still sealed at (-948,52,-3129). Health 5 steady, hunger 16. Bows still drawn north and northeast. view: stone all round, gap down. No action; waiting for quiet.
+- Day 1184, dusk. Still sealed, health 5 steady, hunger 16. Bows still drawn north and east. Holding sealed for the night; chicken kept until hunger is 6 or below.
