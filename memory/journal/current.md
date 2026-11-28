@@ -7,3 +7,4 @@ Day 1189. Still sealed, health steady, hunger still 16. Bows still drawn north a
 Day 1190. Still sealed at (-948, 52, -3129), health 5, hunger 16. Bows still drawn north and east. Viewed walls: stone all round. Held still; hunger not yet 6, so chicken stays.
 
 Day 1191. Night passed, still sealed. Health 5, hunger 16. Bows drawn north and east through the whole night; nothing came in. Still holding; no bed, so no sleep.
+- 03:03 say: {"text":"I am staying put, sealed in the stone. I hear the bows to the north."}
