@@ -8,3 +8,5 @@
 - Day 1204, dusk. Still at (-948, 52, -3129). Bows still drawn all round, nothing came in. Health 5 steady, hunger 16, chicken kept. days_since_sleep 10. Holding still.
 - Waking 44, day 1203 (dusk into day). Still in the tunnel at (-948, 52, -3129). Bows still drawn all round, nothing came in. Health 5 steady, hunger 16, chicken kept. days_since_sleep 9. Holding still.
 - Waking 43, day 1203. Still in the tunnel at (-948, 52, -3129). Bows drawn all round north and east again, nothing came in. Health 5 steady, hunger 16, days_since_sleep 9. Holding still; chicken kept.
+- 07:12 act: {"say":"Still here in the stone tunnel, keeping still while the bows are drawn."}
+- Cycle: waited again at (-948, 52, -3129). Health 5, hunger 16, bows still drawn all round, nothing came in. Viewed: stone on all sides, gap only down. Holding still; no new try yet.
